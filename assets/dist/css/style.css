@@ -1,0 +1,25 @@
+/*
+ideas  for variable names
+Font names
+Font stacks
+Font weights
+Font sizes
+Colour schemes
+*/
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+}
+
+a,
+a:visited,
+a:hover {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
